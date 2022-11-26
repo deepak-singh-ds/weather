@@ -14,7 +14,7 @@ If you find any error in this code then you can contact me TG @RituRajPS'''
 class Weather(Tk):
     def __init__(self):
         super().__init__()
-        self.title("Weather App")
+        self.title("StarCity | Weather App")
         self.geometry("800x480")
         self.iconbitmap(r"Images/weather_icon.ico")
         self.resizable(False,False)
