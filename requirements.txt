@@ -1,0 +1,6 @@
+tk
+Pillow
+timezonefinder
+threaded
+requests
+pytz
