@@ -9,7 +9,7 @@ import pytz
 from timezonefinder import TimezoneFinder
 
 '''Author: Deepak
-If you find any error in this code then you can contact me TG @HarshGopalHG'''  
+If you find any error in this code then you can contact me TG '''  
 
 class Weather(Tk):
     def __init__(self):
