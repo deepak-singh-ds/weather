@@ -8,7 +8,7 @@ import datetime
 import pytz
 from timezonefinder import TimezoneFinder
 
-'''Author: Harsh Gopal
+'''Author: Deepak
 If you find any error in this code then you can contact me TG @HarshGopalHG'''  
 
 class Weather(Tk):
